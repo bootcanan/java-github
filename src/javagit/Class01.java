@@ -9,6 +9,7 @@ public class Class01 {
 		System.out.println("hello");
 		System.out.println("i am still writing some codes for feature branch");
 		// hello 
+		// now some new comment on master
 	}
 
 }
