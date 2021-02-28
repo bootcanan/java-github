@@ -7,6 +7,7 @@ public class Class01 {
 		System.out.println("This commit is only in feature");
 		
 		System.out.println("hello");
+		System.out.println("i am still writing some codes for feature branch");
 		
 	}
 
